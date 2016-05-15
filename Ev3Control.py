@@ -1,7 +1,9 @@
 import socket
 import pygame, sys
 import time
-from SimpleSocket import SimpleSocket    
+from SimpleSocket import SimpleSocket  
+
+ttt
 
 conn = SimpleSocket()
 conn.connect("192.168.0.16", 5001)
